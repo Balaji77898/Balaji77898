@@ -1,6 +1,3 @@
-<!-- Banner Section -->
-![Banner](C:\Users\balaj\Downloads\ChatGPT Image Sep 1, 2025, 06_28_36 PM.png)
-
 <h1 align="center">Hi 👋, I'm Balaji S</h1>
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Backend Engineer</h3>
 
