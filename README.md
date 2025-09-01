@@ -1,4 +1,4 @@
-![My GitHub Banner](https://raw.githubusercontent.com/Balaji77898/Balaji77898/main/github_banner.svg)
+[![My GitHub Banner](https://raw.githubusercontent.com/Balaji77898/Balaji77898/main/github_banner.svg)](https://raw.githubusercontent.com/Balaji77898/Balaji77898/refs/heads/main/README.md)
 <h1 align="center">Hi 👋, I'm Balaji S</h1>
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Backend Engineer</h3>
 
