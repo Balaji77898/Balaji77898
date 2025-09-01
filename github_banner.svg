@@ -1,21 +1,84 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
     <title id="title">Animated GitHub Profile Banner for BALAJI S</title>
-    <desc id="desc">An animated background with the name BALAJI S, followed by the titles Backend Engineer and AI Enthusiast.</desc>
+    <desc id="desc">An animated 3D coding background with the name BALAJI S, followed by the titles Backend Engineer and AI Enthusiast.</desc>
+    
+    <style>
+        .rain {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            fill: #39FF14;
+            opacity: 0.6;
+        }
+    </style>
 
-    <!-- Define the animated gradient background -->
-    <defs>
-        <linearGradient id="animatedGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#1a202c">
-                <animate attributeName="stop-color" values="#1a202c; #2d3748; #4a5568; #2d3748; #1a202c;" dur="10s" repeatCount="indefinite"></animate>
-            </stop>
-            <stop offset="100%" stop-color="#4a5568">
-                <animate attributeName="stop-color" values="#4a5568; #2d3748; #1a202c; #2d3748; #4a5568;" dur="10s" repeatCount="indefinite"></animate>
-            </stop>
-        </linearGradient>
-    </defs>
+    <!-- Dark coding-themed background -->
+    <rect x="0" y="0" width="800" height="200" fill="#0d1117" />
 
-    <!-- Background rectangle filled with the animated gradient -->
-    <rect x="0" y="0" width="800" height="200" fill="url(#animatedGradient)" />
+    <!-- "Matrix" style animated code -->
+    <g class="rain">
+        <text x="20" y="-150">const x = 1;</text>
+        <text x="60" y="-50">011010010110</text>
+        <text x="100" y="-250">import { a }</text>
+        <text x="140" y="-100">#include &lt;io&gt;</text>
+        <text x="180" y="-300">public class</text>
+        <text x="220" y="-200">const API =</text>
+        <text x="260" y="-120">System.out</text>
+        <text x="300" y="-320">() => {}</text>
+        <text x="340" y="-80">git commit</text>
+        <text x="380" y="-220">SELECT * FROM</text>
+        <text x="420" y="-180">@decorator</text>
+        <text x="460" y="-40">async</text>
+        <text x="500" y="-280">npm install</text>
+        <text x="540" y="-140">while (true)</text>
+        <text x="580" y="-240">001000111010</text>
+        <text x="620" y="-90">Promise.all</text>
+        <text x="660" y="-190">Exception</text>
+        <text x="700" y="-290">render()</text>
+        <text x="740" y="-60">useEffect</text>
+        <text x="780" y="-160">Box&lt;T&gt;</text>
+        
+        <animateTransform 
+            attributeName="transform"
+            attributeType="XML"
+            type="translate"
+            from="0 0"
+            to="0 450" 
+            dur="6s"
+            repeatCount="indefinite"/>
+    </g>
+    <g class="rain">
+        <text x="40" y="-150">const y = 2;</text>
+        <text x="80" y="-50">101101010110</text>
+        <text x="120" y="-250">export { b }</text>
+        <text x="160" y="-100">#define MAX</text>
+        <text x="200" y="-300">private var</text>
+        <text x="240" y="-200">let result</text>
+        <text x="280" y="-120">console.log</text>
+        <text x="320" y="-320">(req, res)</text>
+        <text x="360" y="-80">git push</text>
+        <text x="400" y="-220">WHERE id=1</text>
+        <text x="440" y="-180">@override</text>
+        <text x="480" y="-40">await</text>
+        <text x="520" y="-280">yarn add</text>
+        <text x="560" y="-140">if (err)</text>
+        <text x="600" y="-240">111010110101</text>
+        <text x="640" y="-90">Promise.race</text>
+        <text x="680" y="-190">try...catch</text>
+        <text x="720" y="-290">component</text>
+        <text x="760" y="-60">useState</text>
+
+        <animateTransform 
+            attributeName="transform"
+            attributeType="XML"
+            type="translate"
+            from="0 -50"
+            to="0 400" 
+            dur="5.5s"
+            repeatCount="indefinite"/>
+    </g>
+
+    <!-- Semi-transparent overlay for text readability -->
+    <rect x="150" y="50" width="500" height="100" fill="rgba(13, 17, 23, 0.7)" rx="15" />
 
     <!-- Main Text: BALAJI S -->
     <text
@@ -62,3 +125,4 @@
         Backend Engineer  |  AI Enthusiast
     </text>
 </svg>
+
