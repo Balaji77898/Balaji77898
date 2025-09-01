@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Balaji S</h1>
 <h3 align="center">Full-Stack Developer | AI & ML Enthusiast | Backend Engineer</h3>
 
----
+--- 
 
 ### 👨‍💻 About Me:
 - 🚀 Passionate about **Full-Stack Development, Generative AI, and Real-Time Systems**  
