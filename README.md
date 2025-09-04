@@ -39,7 +39,8 @@
 ---
 
 ### ⚡ Contributing Highlights:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Balaji77898&theme=radical)
+[![GitHub Streak](https://your-custom-host.vercel.app/?user=Balaji77898&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
