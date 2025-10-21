@@ -43,6 +43,3 @@
 
 
 ---
-
-### 📈 Contributions:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Balaji77898&theme=react-dark&hide_border=true)
